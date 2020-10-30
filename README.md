@@ -1,5 +1,84 @@
 ### Hi there 👋
-⚡ Every day of my learning. ⚡
+:calendar: Every day of my learning. :calendar:
+
+### My skills
+- **Web Development**
+<table>
+<tbody width="33%">
+ <tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
+</td>
+
+</td>
+
+</tr>
+
+
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+ 
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+</td>
+<tr>
+ 
+ </tr>
+</tbody>
+</table>
+
+### I'm currently learning :open_book:
+- **Web Development**
+<table>
+<tbody>
+<tr>
+    <td align="center" width="33.33%">
+      <img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+    </td>
+    <td align="center" width="33.33%">
+      <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
+    </td>
+    <td align="center" width="33.33%">
+      <img height=60px src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"> 
+    </td>
+</tr>
+</tbody>
+</table>
+    
+<br>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenderb&layout=compact&theme=astra" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenderb&&show_icons=true&theme=astra&count_private=true&include_all_commits=true" alt="My Github Stats">
+</p>
+
+<br> <br>
+ <a href="https://twitter.com/KBTarts">
+  <img align="left" alt="Kender's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/kender-bolivar-1736086b/">
+  <img align="left" alt="Kender's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/kenderb">
+  <img align="left" alt="Kender's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br><br>
+
+#### Thanks for visiting :thumbsup:
+![VisitorCount](https://profile-counter.glitch.me/kenderb/count.svg)
+
+⭐️ From [Kenderb](https://github.com/kenderb)
 
 <!--
 **kenderb/kenderb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
