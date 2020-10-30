@@ -45,7 +45,7 @@
 
 ### I'm currently learning :open_book:
 - **Web Development**
-<table>
+<table  align="center">
 <tbody>
 <tr>
     <td align="center" width="33.33%">
