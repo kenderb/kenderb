@@ -48,14 +48,17 @@
 <table  align="center">
 <tbody>
 <tr>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
     </td>
-    <td align="center" width="33.33%">
+    <td align="center" width="35%">
       <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
     </td>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <img height=60px src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"> 
+    </td>
+   <td align="center" width="25%">
+      <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
     </td>
 </tr>
 </tbody>
