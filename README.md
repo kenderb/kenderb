@@ -63,7 +63,7 @@
     
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendera&layout=compact&theme=astra" alt="My Github Stats" width="33.33%">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenderb&layout=compact&theme=astra" alt="My Github Stats" width="33.33%">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kenderb&&show_icons=true&theme=astra&count_private=true&include_all_commits=true" alt="My Github Stats" width="40%">
 </p>
 
