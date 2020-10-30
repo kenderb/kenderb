@@ -58,7 +58,7 @@
       <img height=60px src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"> 
     </td>
    <td align="center" width="25%">
-      <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
     </td>
 </tr>
 </tbody>
