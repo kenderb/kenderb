@@ -51,7 +51,7 @@
     <td align="center" width="25%">
       <img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
     </td>
-    <td align="center" width="35%">
+    <td align="center" width="25%">
       <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
     </td>
     <td align="center" width="25%">
