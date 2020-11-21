@@ -7,14 +7,20 @@
 <tbody width="33%">
  <tr>
   
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
- 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"> 
+<td align="center" width="25%">
+ <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+ </td>
+<td align="center" width="25%">
+ <img height=60px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"> 
+</td>
+
+
+
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
 
 </td>
@@ -24,19 +30,21 @@
 
 
 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+<td align="center" width="25%">
+   <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="20%">
 <img height=60px src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"> 
 </td>
 
 
 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
 </td>
+
+
 <tr>
  
  </tr>
@@ -57,9 +65,7 @@
     <td align="center" width="25%">
       <img height=60px src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"> 
     </td>
-   <td align="center" width="25%">
-      <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
-    </td>
+   
 </tr>
 </tbody>
 </table>
