@@ -4,70 +4,67 @@
 ### My skills
 - **Web Development**
 <table  align="center">
-<tbody width="33%">
- <tr>
-  
-<td align="center" width="25%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-<td align="center" width="25%">
- <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+ <tbody width="33%" align="center">
+   <tr align="center">
+
+  <td align="center" width="25%">
+   <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+  </td>
+  <td align="center" width="25%">
+    <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+  </td>
+  <td align="center" width="25%">
+   <img height=60px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"> 
+  </td>
+
+
+
+  <td align="center" width="20%">
+   <img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+  </td>
+
  </td>
-<td align="center" width="25%">
- <img height=60px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"> 
-</td>
 
-
-
-<td align="center" width="20%">
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
-
-</td>
-
-</tr>
-
-
-
-
-<td align="center" width="25%">
-   <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
-</td>
-
-<td align="center" width="20%">
-<img height=60px src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"> 
-</td>
-
-
-
-<td align="center" width="20%">
-<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
-</td>
-
-
-<tr>
- 
  </tr>
-</tbody>
+
+
+
+
+ <td align="center" width="25%">
+    <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+ </td>
+
+ <td align="center" width="20%">
+  <img height=60px src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"> 
+ </td>
+
+
+
+ <td align="center" width="20%">
+  <img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
+ </td>
+
+  </tr>
+ </tbody>
 </table>
 
 ### I'm currently learning :open_book:
 - **Web Development**
 <table  align="center">
-<tbody>
-<tr>
-    <td align="center" width="25%">
-      <img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-    </td>
-    <td align="center" width="25%">
-      <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
-    </td>
-    <td align="center" width="25%">
-      <img height=60px src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"> 
-    </td>
-   
-</tr>
-</tbody>
+  <tbody>
+   <tr>
+       <td align="center" width="25%">
+         <img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+       </td>
+       <td align="center" width="25%">
+         <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
+       </td>
+       <td align="center" width="25%">
+         <img height=60px src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"> 
+       </td>
+
+   </tr>
+  </tbody>
 </table>
     
 <br>
