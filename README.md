@@ -62,6 +62,9 @@
        <td align="center" width="25%">
          <img height=60px src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"> 
        </td>
+     <td align="center" width="25%">
+         <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"> 
+       </td>
 
    </tr>
   </tbody>
