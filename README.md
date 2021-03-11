@@ -9,7 +9,7 @@ You will find some projects and practices of my day-to-day journey.
    <tr align="center">
 
   <td align="center" width="25%">
-   <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+   <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
   </td>
   <td align="center" width="25%">
     <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
@@ -55,16 +55,8 @@ You will find some projects and practices of my day-to-day journey.
   <tbody>
    <tr>
        <td align="center" width="25%">
-         <img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-       </td>
-       <td align="center" width="25%">
-         <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
-       </td>
-       <td align="center" width="25%">
          <img height=60px src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"> 
        </td>
-   
-
    </tr>
   </tbody>
 </table>
