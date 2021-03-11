@@ -55,6 +55,10 @@ You will find some projects and practices of my day-to-day journey.
   <tbody>
    <tr>
        <td align="center" width="25%">
+         <img height=60px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
+         <img height=60px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> 
+       </td>
+    <td align="center" width="25%">
          <img height=60px src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"> 
        </td>
    </tr>
