@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 :calendar: Every day of my learning. :calendar: <br>
 You will find some projects and practices of my day-to-day journey.
 
