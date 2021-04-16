@@ -11,37 +11,9 @@ You will find some projects and practices of my day-to-day journey.
   <td align="center" width="25%">
    <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
   </td>
-  <td align="center" width="25%">
-    <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
-  </td>
-  <td align="center" width="25%">
-   <img height=60px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"> 
-  </td>
-
-
-
-  <td align="center" width="20%">
-   <img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-  </td>
-
  </td>
-
  </tr>
 
-
- <td align="center" width="25%">
-    <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
- </td>
-
- <td align="center" width="20%">
-  <img height=60px src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"> 
- </td>
-
-
-
- <td align="center" width="20%">
-  <img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
- </td>
    <td align="center" width="25%">
          <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"> 
        </td>
@@ -57,9 +29,6 @@ You will find some projects and practices of my day-to-day journey.
        <td align="center" width="25%">
          <img height=60px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
          <img height=60px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> 
-       </td>
-    <td align="center" width="25%">
-         <img height=60px src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"> 
        </td>
    </tr>
   </tbody>
